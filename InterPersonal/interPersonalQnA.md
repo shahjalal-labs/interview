@@ -6,7 +6,6 @@
 
 2. **Why should we hire you? / Why are you suitable for the post?**  
    I bring strong technical expertise in the MERN stack—React, Node.js, Express, MongoDB—combined with my focus on clean, scalable code and modern development practices. My terminal-based workflow boosts productivity, and my mindset aligns well with product-driven teams focused on quality.
-
 3. **How do you stay motivated and engaged in your work over the long term?**  
    I stay motivated through continuous meditation, deep breathing, physical movement, and playing regularly for health. I also enjoy solving challenging problems in a CLI environment and learning new tools, which keeps my workflow fresh and engaging.
 
